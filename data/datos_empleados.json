@@ -1,0 +1,15 @@
+{
+    "id":3, 
+    "nombre":"Juan",
+    "apellido":"Díaz",
+    "activo":true,
+    "idiomas":["Inglés","Portugués","Coreano"],
+    "datos_registro":{
+        "domicilio":"Gran Vía 124, 1º2ª",
+        "ciudad":"madrid",
+        "cpostal":"20900",
+        "pais":"España",
+        "fechadealta":"29/05/2000"
+    }
+}
+
